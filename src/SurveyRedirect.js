@@ -3,7 +3,6 @@ import { useEffect } from "react";
 const SurveyRedirect = () => {
   const links = [
     "https://dhlim55.github.io/sdfchat1/",
-    "https://dhlim55.github.io/sdfchatc2/",
     "https://dhlim55.github.io/sdfchat/"
   ]
 
